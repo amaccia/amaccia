@@ -8,6 +8,8 @@ JavaScript course by Jonas Schmedtmann at [Udemy](https://www.udemy.com/course/t
 
 HTML & CSS at [The Odin Project](https://www.theodinproject.com/paths/foundations/courses/foundations)
 
+Attempting short projects at [jsbeginners](https://jsbeginners.com/javascript-projects-for-beginners/)
+
 **Future Studies:**
 
 React, Tailwind, Boostrap
