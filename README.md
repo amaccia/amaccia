@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hey, i'm Adrian.
 
-<!--
-**amaccia/amaccia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm in the process of learning to become a Software Developer self taught.
 
-Here are some ideas to get you started:
+**Currently Studying:**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+JavaScript course by Jonas Schmedtmann at [Udemy](https://www.udemy.com/course/the-complete-javascript-course/)
+
+HTML & CSS at [The Odin Project](https://www.theodinproject.com/paths/foundations/courses/foundations)
+
+**Future Studies:**
+
+React, Tailwind, Boostrap
