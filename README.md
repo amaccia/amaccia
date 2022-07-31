@@ -5,6 +5,7 @@ I'm in the process of learning to become a Software Developer self taught.
 **Currently Studying:**
 
 JavaScript course by Jonas Schmedtmann at [Udemy](https://www.udemy.com/course/the-complete-javascript-course/) 
+
 Short projects at [JSBeginners](https://jsbeginners.com/javascript-projects-for-beginners/)
 
 **Future Studies:**
