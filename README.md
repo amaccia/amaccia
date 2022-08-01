@@ -10,6 +10,6 @@ Short projects at [JSBeginners](https://jsbeginners.com/javascript-projects-for-
 
 **Future Studies:**
 
-React, Tailwind, Boostrap
-
 [Harvard CS50x 2022](https://cs50.harvard.edu/x/2022/)
+
+React, Tailwind, Boostrap
